@@ -1,10 +1,8 @@
-# Task: With the help of the ngFor directive, create a list of countries whose capital will appear when the name of the country is click.
+#### Task: With the help of the ngFor directive, create a list of countries whose capital will appear when the name of the country is click.
 
-# deploy: [angular-ngFor](https://angular-ngfor.surge.sh/)
+# Deploy: [angular-ngFor](https://angular-ngfor.surge.sh/)
 
-# AppList
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
 
